@@ -1,0 +1,51 @@
+The number system we all know and love, like 10, −2, 0.3,
+√
+2,
+22
+7
+, π and of course,
+the answer to life, the universe and everything, 42, are known as the real numbers.
+Conventionally, we denote the family of all numbers as R.
+But, sometimes, real numbers aren’t sufficient. Below is an example that might be all
+too familiar.
+EXAMPLE 1.1: Recall that the solution to any quadratic equation of the form
+ax2 +bx+c = 0, is given by:
+x =
+−b±
+√
+b
+2 −4ac
+2a
+If we try to solve the quadratic equation x
+2 +5x+10 = 0 for x, we’ll get:
+x =
+−5±
+√
+25−4 · 10
+2
+=
+−5±
+√
+−15
+2
+What’s the value for √
+−15? In other words, is there a real number a such that a
+2 =
+−15? It’s not hard to convince yourself that, in fact, no real numbers, being positive
+or negative, can satisfy this condition.
+Should we just give up? Of course not! We’re doing mathematics: if something
+doesn’t exist, we invent it! This is where complex numbers come in. If you pursue
+your studies in virtually any field of science and/or engineering, chances are complex
+numbers will become your best friends. They have many applications in physics,
+chemistry, biology, electrical engineering, statistics, and even finance and economics.
+As you’ll learn soon enough, in quantum mechanics, complex numbers are
+absolutely everywhere.
+1.1 What is a complex number?
+In some sense, we’ve already defined what a complex number is. In the example
+above, since √
+−15 is not real, then x is certainly not real either. (Adding a real
+number with a non-real number cannot give you something real!) So by definition,
+we’ll call numbers like this complex numbers.
+But of course, being mathematicians-in-training, we’d like to have something more
+concrete, better defined. Looking at x again, all the kerfuffle seems to be caused by
+the nasty minus sign under the square root. Let’s take care of that.
